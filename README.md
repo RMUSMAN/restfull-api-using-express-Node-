@@ -1,2 +1,2 @@
 run command : npm install
-execute: nodemon start
+execute with command: nodemon start
